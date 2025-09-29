@@ -137,6 +137,7 @@ Perfect for showcasing advanced frontend development skills, performance optimiz
 
 Built with quantum entanglement and copious amounts of coffee ☕
 
-Built with ❤️ and lots of 🚀 by Your Krushna Nawale
+Built with ❤️ and lots of 🚀 by Your Krushna Nawale.
+
 
 
